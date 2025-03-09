@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniel Domínguez, Sound & Acoustics engineer and master in AI & Digital Education.
+- 👋 Hi, I’m Daniel Domínguez, Sound & Acoustics engineer and master'student in AI & Digital Education.
 - 👀 I’m interested in professional audio, AI technologies and the combination of both worlds.
 - 🌱 I’m currently learning Computer Science and AI Engineering in CodeCademy. 
 - 💞️ I’m looking to collaborate on Audio AI research and applications.
