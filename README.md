@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning Computer Science and AI Engineering in CodeCademy. 
 - 💞️ I’m looking to collaborate on Audio AI research and applications.
 - 📫 How to reach me: danielesdosa@gmail.com 
-- ⚡ Fun fact: I'm a professional sound designer, I run an audio postproduction studio in Quito, Ecuador. I love movies, books, music and technology! 
+- ⚡ Fun fact: I'm a professional sound designer, I run an audio postproduction studio in Quito, Ecuador. I love movies, books, music and soccer! 
 
 
